@@ -41,6 +41,19 @@ The **Smart City Traffic AI Cloud Platform** is an advanced, cloud-based intelli
 - **Role-based Access**: Different access levels for traffic agents and public users
 - **Data Encryption**: Secure data transmission and storage
 
+## 📸 Demo Images
+
+Here are some screenshots of the IntelliCity dashboard and system components:
+
+### **Dashboard Overview**
+![Dashboard](./readme/dashboard.png)
+
+### **Camera Monitoring**
+![Camera](./readme/camera.png)
+
+### **IoT Device Management**
+![IoT](./readme/iot.png)
+
 ## 🏛️ System Architecture
 
 ### **High-Level System Design**
